@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+😄I am Mahdi, people call me Calvine 
+
+⚡Fun fact: I love cats, pizza and DevOps
 <!--
 **mahdicalvine/mahdicalvine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
